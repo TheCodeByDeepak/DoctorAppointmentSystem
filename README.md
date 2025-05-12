@@ -40,11 +40,35 @@ A full-stack Doctor Appointment System built using the **MERN Stack** (MongoDB, 
 
 ## 📸 Screenshots
 
-> Place your screenshots in a `screenshots/` folder and update the paths below accordingly.
+### 👤  Register Page
+![Login Page](./screenshots/register-page.png)
 
-### 👤 Patient Dashboard
-![Login Page](./screenshots/login-page.png)
+### 👤  Login Page
+![Register Page](./screenshots/login-page.png)
 
-### 👨‍⚕️ Doctor Dashboard
-![Register Page](./screenshots/register-page.png)
+### 👤 Patient Home Page
+![Register Page](./screenshots/Patient%20Home%20Page.png)
 
+### 👨‍⚕️ Patient Appointment Status
+![Register Page](./screenshots/Patient%20Appointment%20Status.png)
+
+### 👨‍⚕️ Apply as Doctor
+![Register Page](./screenshots/Apply%20as%20Doctor.png)
+
+### 👨‍⚕️ Doctor Appointment List
+![Register Page](./screenshots/Doctor%20Appointment%20list.png)
+
+### 👨‍⚕️ Doctor Profile Page
+![Register Page](./screenshots/Doctor%20Profile%20Page.png)
+
+### 👨‍⚕️ Doctor Appointment Notification
+![Register Page](./screenshots/Doctor%20Appointment%20Notification.png)
+
+### 🛡️ Admin Page - Doctor List
+![Register Page](./screenshots/Admin%20Page%20Doctor%20list.png)
+
+### 🛡️ Admin Page - User List
+![Register Page](./screenshots/Admin%20Page%20User%20list.png)
+
+### 🛡️ Admin Doctor Notification
+![Register Page](./screenshots/Admin%20Doctor%20Notification.png)
